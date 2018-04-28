@@ -14,7 +14,7 @@ init base.less
 
 * you can copy the base.less file in you project!
 
-[base.less]()
+[base.less](https://github.com/lihang90/less-base/blob/master/base.less)
 
 * npm install
 ```
