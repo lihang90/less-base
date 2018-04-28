@@ -1,6 +1,6 @@
 {
   "name": "less-init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Less for base.less Css",
   "main": "base.less",
   "scripts": {
@@ -12,7 +12,9 @@
   "keywords": [
     "less",
     "base",
-    "css"
+    "css",
+    "init",
+    "init-less"
   ],
   "author": "lihang90",
   "license": "MIT",
