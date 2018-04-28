@@ -1,24 +1,24 @@
-# array2tree
+# less-init
 
-[![npm](https://img.shields.io/npm/v/less-base.svg)](https://www.npmjs.com/package/less-base)
-![npm](https://img.shields.io/npm/dm/less-base.svg)
+[![npm](https://img.shields.io/npm/v/less-init.svg)](https://www.npmjs.com/package/less-init)
+![npm](https://img.shields.io/npm/dm/less-init.svg)
 
-![](https://nodei.co/npm/less-base.png?downloads=true)
+![](https://nodei.co/npm/less-init.png?downloads=true)
 
-[https://github.com/lihang90/less-base](https://github.com/lihang90/less-base)
+[https://github.com/lihang90/less-init](https://github.com/lihang90/less-init)
 
 init base.less
 
 
 ## How to use
 
-* you can copy the base.less file in you project!
+* you can copy the base.less file put in your project!
 
-[base.less](https://github.com/lihang90/less-base/blob/master/base.less)
+[base.less](https://github.com/lihang90/less-init/blob/master/base.less)
 
-* npm install
+* you can npm install get base.less file then put in your project!
 ```
-$ npm install less-base --save
+$ npm install less-init --save
 ```
 
 * use

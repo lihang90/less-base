@@ -1,16 +1,13 @@
 {
-  "name": "less-base",
+  "name": "less-init",
   "version": "1.0.0",
-  "description": "Less for my base.less Css",
-  "main": "index.js",
+  "description": "Less for base.less Css",
+  "main": "base.less",
   "scripts": {
-    "test": "mocha",
-    "cover": "./node_modules/.bin/istanbul cover _mocha",
-    "coveralls": "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | ./node_modules/.bin/coveralls"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lihang90/less-base.git"
+    "url": "git+https://github.com/lihang90/less-init.git"
   },
   "keywords": [
     "less",
@@ -20,9 +17,9 @@
   "author": "lihang90",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lihang90/less-base/issues"
+    "url": "https://github.com/lihang90/less-init/issues"
   },
-  "homepage": "https://github.com/lihang90/less-base#readme",
+  "homepage": "https://github.com/lihang90/less-init#readme",
   "dependencies": {},
   "devDependencies": {
 
